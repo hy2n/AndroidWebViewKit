@@ -10,11 +10,10 @@
 
 ## 사용 방법
 
-1. 이 저장소를 클론하거나 다운로드합니다.
-2. 
-3. Android Studio에서 프로젝트를 엽니다.
-
-4. `MainActivity.java`에서 WebView URL을 로드할 원하는 웹 페이지로 사용자 정의합니다:
+1. 이 저장소를 클론하거나 다운받는다.
+2. Android Studio에서 프로젝트를 연다.
+3. `MainActivity.java`에서 WebView URL을 로드할 원하는 웹 페이지로 정의한다.
+4. 웹뷰를 쓴다.
 
 ## 사용법
-- 벨로그 참조
+- 벨로그 참조 https://velog.io/@hy2n/Make-AndroidAPP-WebView
